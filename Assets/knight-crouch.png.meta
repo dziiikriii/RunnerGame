@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: ea1d45d63d851a142a2093291b195fa6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2853478932405734543
+    second: knight-crouch_0
+  - first:
+      213: -463399926510653816
+    second: knight-crouch_1
+  - first:
+      213: -3513472156364491712
+    second: knight-crouch_2
+  - first:
+      213: 3468604346185818770
+    second: knight-crouch_3
+  - first:
+      213: 704362399426632904
+    second: knight-crouch_4
+  - first:
+      213: 5901564156613912092
+    second: knight-crouch_5
+  - first:
+      213: 4343680327724852752
+    second: knight-crouch_6
+  - first:
+      213: -1035077592502402390
+    second: knight-crouch_7
+  - first:
+      213: 8543871119529559299
+    second: knight-crouch_8
+  - first:
+      213: -7038093904282986950
+    second: knight-crouch_9
+  - first:
+      213: -6196259061888393328
+    second: knight-crouch_10
+  - first:
+      213: -3669527377849427631
+    second: knight-crouch_11
+  - first:
+      213: -748954821029956759
+    second: knight-crouch_12
+  - first:
+      213: -4154736879931499073
+    second: knight-crouch_13
+  - first:
+      213: -4228928863453809951
+    second: knight-crouch_14
+  - first:
+      213: -5994653702712790
+    second: knight-crouch_15
+  - first:
+      213: 3026989471279534447
+    second: knight-crouch_16
+  - first:
+      213: -8526194449997889968
+    second: knight-crouch_17
+  - first:
+      213: -6349835279290843442
+    second: knight-crouch_18
+  - first:
+      213: -5282649823249099116
+    second: knight-crouch_19
+  - first:
+      213: 4436381744272058051
+    second: knight-crouch_20
+  - first:
+      213: 1912301794336561512
+    second: knight-crouch_21
+  - first:
+      213: -4557934916083499327
+    second: knight-crouch_22
+  - first:
+      213: 8987051565579000679
+    second: knight-crouch_23
+  - first:
+      213: -137355494273833906
+    second: knight-crouch_24
+  - first:
+      213: -1694684936538234312
+    second: knight-crouch_25
+  - first:
+      213: -2688074797075299126
+    second: knight-crouch_26
+  - first:
+      213: 2974941196652189862
+    second: knight-crouch_27
+  - first:
+      213: -4675751295219049757
+    second: knight-crouch_28
+  - first:
+      213: -3813440582027641753
+    second: knight-crouch_29
+  - first:
+      213: -698732290479935901
+    second: knight-crouch_30
+  - first:
+      213: 6848400124417220007
+    second: knight-crouch_31
+  - first:
+      213: 1031129462212216067
+    second: knight-crouch_32
+  - first:
+      213: -3523602583643037427
+    second: knight-crouch_33
+  - first:
+      213: 7889119986857528163
+    second: knight-crouch_34
+  - first:
+      213: 1343185418168719110
+    second: knight-crouch_35
+  - first:
+      213: -6934196654950838333
+    second: knight-crouch_36
+  - first:
+      213: 3456811527957564776
+    second: knight-crouch_37
+  - first:
+      213: 2558384857245057234
+    second: knight-crouch_38
+  - first:
+      213: 5133866699719060287
+    second: knight-crouch_39
+  - first:
+      213: -1516845451395692959
+    second: knight-crouch_40
+  - first:
+      213: 7722182312629351927
+    second: knight-crouch_41
+  - first:
+      213: -2692240693671310846
+    second: knight-crouch_42
+  - first:
+      213: -6731421550696840962
+    second: knight-crouch_43
+  - first:
+      213: -5992711284839521312
+    second: knight-crouch_44
+  - first:
+      213: -929938192363298581
+    second: knight-crouch_45
+  - first:
+      213: 4226266953522566980
+    second: knight-crouch_46
+  - first:
+      213: 1974352920878609729
+    second: knight-crouch_47
+  - first:
+      213: 6019164901523084104
+    second: knight-crouch_48
+  - first:
+      213: -6909494369325946963
+    second: knight-crouch_49
+  - first:
+      213: 2777772571540967888
+    second: knight-crouch_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight-crouch_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 67
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea556e58f46c1fb0800000000000000
+      internalID: -4675751295219049757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-crouch_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cfe20ceffe31bc0800000000000000
+      internalID: -3813440582027641753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-crouch_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 67
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e29d01faa9d46f0800000000000000
+      internalID: -698732290479935901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-crouch_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 66
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad11a7f0a76a0f50800000000000000
+      internalID: 6848400124417220007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-crouch_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 66
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305499068ce4f4e00800000000000000
+      internalID: 1031129462212216067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-crouch_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 65
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01ee487e16a91fc0800000000000000
+      internalID: -3523602583643037427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-crouch_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 67
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bc31764d8cb7d60800000000000000
+      internalID: 7889119986857528163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-crouch_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6075e657504f3a210800000000000000
+      internalID: 1343185418168719110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-crouch_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 35
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf04fa91e8c4cf90800000000000000
+      internalID: -6934196654950838333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-crouch_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dc26b05cf09ff20800000000000000
+      internalID: 3456811527957564776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-crouch_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d084d60975318320800000000000000
+      internalID: 2558384857245057234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-crouch_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b26f020982f3740800000000000000
+      internalID: 5133866699719060287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 720f76861240b6c40b94f6e3b78efa58
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      knight-crouch_28: -4675751295219049757
+      knight-crouch_29: -3813440582027641753
+      knight-crouch_30: -698732290479935901
+      knight-crouch_31: 6848400124417220007
+      knight-crouch_32: 1031129462212216067
+      knight-crouch_33: -3523602583643037427
+      knight-crouch_34: 7889119986857528163
+      knight-crouch_35: 1343185418168719110
+      knight-crouch_36: -6934196654950838333
+      knight-crouch_37: 3456811527957564776
+      knight-crouch_38: 2558384857245057234
+      knight-crouch_39: 5133866699719060287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
